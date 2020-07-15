@@ -24,10 +24,13 @@
     "@angular/platform-browser-dynamic": "^10.0.3",
     "@angular/router": "^10.0.3",
     "@auth0/angular-jwt": "^5.0.1",
+    "alertifyjs": "^1.13.1",
     "bootstrap": "^4.5.0",
+    "bootswatch": "^4.1.1",
     "core-js": "^2.6.11",
     "font-awesome": "^4.7.0",
     "ionic-native": "https://github.com/ionic-team/ionic-native/tarball/v3.5.0",
+    "ngx-bootstrap": "^5.5.0",
     "rxjs": "^6.6.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
